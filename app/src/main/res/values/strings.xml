@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">EjercicioClase0410</string>
+    <string name="txt_valor1">operando1 </string>
+    <string name="txt_valor2">operando2 </string>
+    <string name="buttonSum">Operar</string>
+    <string name="radioSum">Sumar</string>
+    <string name="radioRes">Restar</string>
+    <string name="editTextRes">Resultado</string>
+    <string name="ButtonAcercaDe">Acerca de</string>
+    <string name="buttonSalir">Salir</string>
+
+
+</resources>
